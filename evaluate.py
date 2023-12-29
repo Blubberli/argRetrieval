@@ -148,4 +148,4 @@ def random_example_real_data(path_to_training_data):
 
 
 if __name__ == '__main__':
-    random_example_real_data("argsharedtask/train_with_all_socios.jsonl")
+    random_example_real_data("./train_with_all_socios.jsonl")
